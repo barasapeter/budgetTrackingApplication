@@ -43,15 +43,14 @@ This is a simple budget tracking application that helps users manage their finan
 - Any necessary dependencies or libraries (e.g., Flask, SQLite, etc.)
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/...`
+1. Clone the repository: `git clone https://github.com/barasapeter/budgetTrackingApplication.git`
 2. Navigate to the project directory: `cd budget-tracker`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ### Usage
-1. Run the application: `python app.py`
-2. Open your web browser and navigate to `http://localhost:5000`
-3. Register a new account or log in with existing credentials
-4. Follow the menu prompts to manage your finances
+1. Run the application: `python main.py`
+2. Register a new account or log in with existing credentials
+3. Follow the menu prompts to manage your finances
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
@@ -60,5 +59,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-- Special thanks to the open-source community for the libraries and resources used in this project.
+- Special thanks to the open-source community for the libraries and resources used in this project, more specifically customtkinter and ttkbootstrap. I also thank my loving girlfriend (Mary) for staying right beside me during the long hours of development.
 - Inspiration and guidance from various personal finance blogs and websites.
