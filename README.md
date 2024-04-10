@@ -1,4 +1,10 @@
-<!-- 
+# Budget Tracking Application
+
+## Description
+This is a simple budget tracking application that helps users manage their finances effectively. The application allows users to log their income, expenses, and set savings goals. It provides insights into spending habits and encourages users to save more by setting fun challenges.
+
+# Original problem-based on these requirements
+```
  Budget tracking Application
  savings goal
  tips on cutting down unnecessary expenses
@@ -17,14 +23,7 @@
  A savings overview which shows the curret balance after subtracting the expenses from income. this could display how much is potentially available for saving
  a way of displaying the spending habits of the user either according to the categories, or the otherwise
  this can be displayed as a percentage or some other way
- -->
-
-
-
-# Budget Tracking Application
-
-## Description
-This is a simple budget tracking application that helps users manage their finances effectively. The application allows users to log their income, expenses, and set savings goals. It provides insights into spending habits and encourages users to save more by setting fun challenges.
+```
 
 ## Features
 - User authentication with username and password
@@ -39,7 +38,7 @@ This is a simple budget tracking application that helps users manage their finan
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.12
 - Any necessary dependencies or libraries (e.g., Flask, SQLite, etc.)
 
 ### Installation
